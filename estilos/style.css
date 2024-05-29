@@ -1,9 +1,5 @@
 @charset "UTF-8";
 
-@charset {
-    <link rel="shortcut icon" href="imagens/logo.ico/favicon.ico" type="image/x-icon">
-}
-
 @font-face {
     font-family: Arial, Helvetica, sans-serif;
     src: url(../fontes/Grand_Hotel/GrandHotel-Regular.ttf);}
